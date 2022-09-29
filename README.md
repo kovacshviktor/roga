@@ -1,2 +1,2 @@
-# roga
-Roga is the ligatureless version of Kende font
+## roga
+# Roga betűkészlet a Magyar rovásírás Unicode szabvány szerinti betűkészlet. Se több, se kevesebb. 
