@@ -1,4 +1,4 @@
-Copyright (c) 2023, Viktor Kovács,
+Copyright (c) 2021, Viktor Kovács,
 with Reserved Font Name Roga.
 Copyright (c) 2023 András Tisza
 
