@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1545818743
-ModificationTime: 1691478372
+ModificationTime: 1693417253
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -79,8 +79,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "Roga:Version 3.000" "" "Version 3.000;August 6, 2023" "" "" "" "" "" "" "" "Copyright ( c ) 2023, Viktor Kovacs (kov.h.vik@gmail.com), Andras Tisza+AAoA-with Reserved Font Name Roga+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Roga" "Book"
 LangName: 1038 "" "Roga" "" "" "Roga" "" "" "" "" "" "" "" "" "" "" "" "Roga"
-Encoding: UnicodeFull
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -90,10 +89,10 @@ WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114113 122
+BeginChars: 124 123
 
 StartChar: .notdef
-Encoding: 1114112 -1 0
+Encoding: 122 -1 0
 Width: 416
 GlyphClass: 1
 Flags: W
@@ -126,7 +125,7 @@ Validated: 1
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 2
+Encoding: 2 33 2
 Width: 279
 GlyphClass: 1
 Flags: W
@@ -148,7 +147,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 3
+Encoding: 3 34 3
 Width: 456
 GlyphClass: 1
 Flags: W
@@ -170,7 +169,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 4
+Encoding: 4 45 4
 Width: 430
 GlyphClass: 1
 Flags: W
@@ -187,7 +186,7 @@ Validated: 1
 EndChar
 
 StartChar: period
-Encoding: 46 46 5
+Encoding: 5 46 5
 Width: 279
 GlyphClass: 1
 Flags: W
@@ -204,7 +203,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 58 58 6
+Encoding: 6 58 6
 Width: 278
 GlyphClass: 1
 Flags: W
@@ -226,7 +225,7 @@ Validated: 1
 EndChar
 
 StartChar: uni201F
-Encoding: 8223 8223 7
+Encoding: 7 8223 7
 Width: 445
 GlyphClass: 1
 Flags: W
@@ -258,7 +257,7 @@ Validated: 1
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 8
+Encoding: 8 8230 8
 Width: 666
 GlyphClass: 1
 Flags: W
@@ -285,7 +284,7 @@ Validated: 1
 EndChar
 
 StartChar: exclamdbl
-Encoding: 8252 8252 9
+Encoding: 9 8252 9
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -317,7 +316,7 @@ Validated: 1
 EndChar
 
 StartChar: uni204F
-Encoding: 8271 8271 10
+Encoding: 10 8271 10
 Width: 279
 GlyphClass: 1
 Flags: W
@@ -344,7 +343,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E2E
-Encoding: 11822 11822 11
+Encoding: 11 11822 11
 Width: 664
 GlyphClass: 1
 Flags: W
@@ -386,7 +385,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E41
-Encoding: 11841 11841 12
+Encoding: 12 11841 12
 Width: 279
 GlyphClass: 1
 Flags: W
@@ -408,7 +407,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E42
-Encoding: 11842 11842 13
+Encoding: 13 11842 13
 Width: 445
 GlyphClass: 1
 Flags: W
@@ -440,7 +439,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C80
-Encoding: 68736 68736 14
+Encoding: 14 68736 14
 Width: 427
 GlyphClass: 1
 Flags: W
@@ -464,7 +463,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C81
-Encoding: 68737 68737 15
+Encoding: 15 68737 15
 Width: 439
 GlyphClass: 1
 Flags: W
@@ -488,7 +487,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C82
-Encoding: 68738 68738 16
+Encoding: 16 68738 16
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -513,7 +512,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C83
-Encoding: 68739 68739 17
+Encoding: 17 68739 17
 Width: 917
 GlyphClass: 1
 Flags: W
@@ -575,7 +574,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C84
-Encoding: 68740 68740 18
+Encoding: 18 68740 18
 Width: 592
 GlyphClass: 1
 Flags: W
@@ -598,7 +597,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C85
-Encoding: 68741 68741 19
+Encoding: 19 68741 19
 Width: 590
 GlyphClass: 1
 Flags: W
@@ -627,7 +626,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C86
-Encoding: 68742 68742 20
+Encoding: 20 68742 20
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -657,7 +656,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C87
-Encoding: 68743 68743 21
+Encoding: 21 68743 21
 Width: 433
 GlyphClass: 1
 Flags: W
@@ -682,7 +681,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C88
-Encoding: 68744 68744 22
+Encoding: 22 68744 22
 Width: 470
 GlyphClass: 1
 Flags: W
@@ -715,7 +714,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C89
-Encoding: 68745 68745 23
+Encoding: 23 68745 23
 Width: 446
 GlyphClass: 1
 Flags: W
@@ -758,7 +757,7 @@ EndSplineSet
 EndChar
 
 StartChar: u10C8A
-Encoding: 68746 68746 24
+Encoding: 24 68746 24
 Width: 476
 GlyphClass: 1
 Flags: W
@@ -806,7 +805,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C8B
-Encoding: 68747 68747 25
+Encoding: 25 68747 25
 Width: 448
 GlyphClass: 1
 Flags: W
@@ -839,7 +838,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C8C
-Encoding: 68748 68748 26
+Encoding: 26 68748 26
 Width: 605
 GlyphClass: 1
 Flags: W
@@ -886,7 +885,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C8D
-Encoding: 68749 68749 27
+Encoding: 27 68749 27
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -909,7 +908,7 @@ EndSplineSet
 EndChar
 
 StartChar: u10C8E
-Encoding: 68750 68750 28
+Encoding: 28 68750 28
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -942,7 +941,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C8F
-Encoding: 68751 68751 29
+Encoding: 29 68751 29
 Width: 550
 GlyphClass: 1
 Flags: W
@@ -976,7 +975,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C90
-Encoding: 68752 68752 30
+Encoding: 30 68752 30
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -1001,7 +1000,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C91
-Encoding: 68753 68753 31
+Encoding: 31 68753 31
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -1025,7 +1024,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C92
-Encoding: 68754 68754 32
+Encoding: 32 68754 32
 Width: 391
 GlyphClass: 1
 Flags: W
@@ -1045,7 +1044,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C93
-Encoding: 68755 68755 33
+Encoding: 33 68755 33
 Width: 547
 GlyphClass: 1
 Flags: W
@@ -1069,7 +1068,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C94
-Encoding: 68756 68756 34
+Encoding: 34 68756 34
 Width: 594
 GlyphClass: 1
 Flags: W
@@ -1092,7 +1091,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C95
-Encoding: 68757 68757 35
+Encoding: 35 68757 35
 Width: 588
 GlyphClass: 1
 Flags: W
@@ -1135,7 +1134,7 @@ EndSplineSet
 EndChar
 
 StartChar: u10C96
-Encoding: 68758 68758 36
+Encoding: 36 68758 36
 Width: 564
 GlyphClass: 1
 Flags: W
@@ -1165,7 +1164,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C97
-Encoding: 68759 68759 37
+Encoding: 37 68759 37
 Width: 584
 GlyphClass: 1
 Flags: W
@@ -1204,7 +1203,7 @@ Validated: 33
 EndChar
 
 StartChar: u10C98
-Encoding: 68760 68760 38
+Encoding: 38 68760 38
 Width: 455
 GlyphClass: 1
 Flags: W
@@ -1242,7 +1241,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C99
-Encoding: 68761 68761 39
+Encoding: 39 68761 39
 Width: 410
 GlyphClass: 1
 Flags: W
@@ -1267,7 +1266,7 @@ Validated: 33
 EndChar
 
 StartChar: u10C9A
-Encoding: 68762 68762 40
+Encoding: 40 68762 40
 Width: 500
 GlyphClass: 1
 Flags: W
@@ -1295,7 +1294,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C9B
-Encoding: 68763 68763 41
+Encoding: 41 68763 41
 Width: 469
 GlyphClass: 1
 Flags: W
@@ -1324,7 +1323,7 @@ Validated: 33
 EndChar
 
 StartChar: u10C9C
-Encoding: 68764 68764 42
+Encoding: 42 68764 42
 Width: 532
 GlyphClass: 1
 Flags: W
@@ -1358,7 +1357,7 @@ Validated: 33
 EndChar
 
 StartChar: u10C9D
-Encoding: 68765 68765 43
+Encoding: 43 68765 43
 Width: 380
 GlyphClass: 1
 Flags: W
@@ -1379,7 +1378,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C9E
-Encoding: 68766 68766 44
+Encoding: 44 68766 44
 Width: 484
 GlyphClass: 1
 Flags: W
@@ -1403,7 +1402,7 @@ Validated: 1
 EndChar
 
 StartChar: u10C9F
-Encoding: 68767 68767 45
+Encoding: 45 68767 45
 Width: 576
 GlyphClass: 1
 Flags: W
@@ -1452,7 +1451,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CA0
-Encoding: 68768 68768 46
+Encoding: 46 68768 46
 Width: 503
 GlyphClass: 1
 Flags: W
@@ -1480,7 +1479,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA1
-Encoding: 68769 68769 47
+Encoding: 47 68769 47
 Width: 823
 GlyphClass: 1
 Flags: W
@@ -1532,7 +1531,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA2
-Encoding: 68770 68770 48
+Encoding: 48 68770 48
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -1557,7 +1556,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA3
-Encoding: 68771 68771 49
+Encoding: 49 68771 49
 Width: 413
 GlyphClass: 1
 Flags: W
@@ -1574,7 +1573,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA4
-Encoding: 68772 68772 50
+Encoding: 50 68772 50
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -1596,7 +1595,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA5
-Encoding: 68773 68773 51
+Encoding: 51 68773 51
 Width: 208
 GlyphClass: 1
 Flags: W
@@ -1613,7 +1612,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA6
-Encoding: 68774 68774 52
+Encoding: 52 68774 52
 Width: 394
 GlyphClass: 1
 Flags: W
@@ -1634,7 +1633,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA7
-Encoding: 68775 68775 53
+Encoding: 53 68775 53
 Width: 713
 GlyphClass: 1
 Flags: W
@@ -1663,7 +1662,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA8
-Encoding: 68776 68776 54
+Encoding: 54 68776 54
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -1696,7 +1695,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CA9
-Encoding: 68777 68777 55
+Encoding: 55 68777 55
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -1729,7 +1728,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAA
-Encoding: 68778 68778 56
+Encoding: 56 68778 56
 Width: 602
 GlyphClass: 1
 Flags: W
@@ -1768,7 +1767,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAB
-Encoding: 68779 68779 57
+Encoding: 57 68779 57
 Width: 601
 GlyphClass: 1
 Flags: W
@@ -1812,7 +1811,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAC
-Encoding: 68780 68780 58
+Encoding: 58 68780 58
 Width: 688
 GlyphClass: 1
 Flags: W
@@ -1867,7 +1866,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAD
-Encoding: 68781 68781 59
+Encoding: 59 68781 59
 Width: 462
 GlyphClass: 1
 Flags: W
@@ -1888,7 +1887,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAE
-Encoding: 68782 68782 60
+Encoding: 60 68782 60
 Width: 602
 GlyphClass: 1
 Flags: W
@@ -1918,7 +1917,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CAF
-Encoding: 68783 68783 61
+Encoding: 61 68783 61
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -1953,7 +1952,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CB0
-Encoding: 68784 68784 62
+Encoding: 62 68784 62
 Width: 580
 GlyphClass: 1
 Flags: W
@@ -1979,7 +1978,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CB1
-Encoding: 68785 68785 63
+Encoding: 63 68785 63
 Width: 712
 GlyphClass: 1
 Flags: W
@@ -2030,7 +2029,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CB2
-Encoding: 68786 68786 64
+Encoding: 64 68786 64
 Width: 643
 GlyphClass: 1
 Flags: W
@@ -2065,7 +2064,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC0
-Encoding: 68800 68800 65
+Encoding: 65 68800 65
 Width: 426
 GlyphClass: 1
 Flags: W
@@ -2089,7 +2088,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC1
-Encoding: 68801 68801 66
+Encoding: 66 68801 66
 Width: 439
 GlyphClass: 1
 Flags: W
@@ -2113,7 +2112,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC2
-Encoding: 68802 68802 67
+Encoding: 67 68802 67
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -2138,7 +2137,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC3
-Encoding: 68803 68803 68
+Encoding: 68 68803 68
 Width: 917
 GlyphClass: 1
 Flags: W
@@ -2200,7 +2199,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC4
-Encoding: 68804 68804 69
+Encoding: 69 68804 69
 Width: 592
 GlyphClass: 1
 Flags: W
@@ -2223,7 +2222,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC5
-Encoding: 68805 68805 70
+Encoding: 70 68805 70
 Width: 590
 GlyphClass: 1
 Flags: W
@@ -2252,7 +2251,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC6
-Encoding: 68806 68806 71
+Encoding: 71 68806 71
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -2282,7 +2281,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC7
-Encoding: 68807 68807 72
+Encoding: 72 68807 72
 Width: 431
 GlyphClass: 1
 Flags: W
@@ -2307,7 +2306,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC8
-Encoding: 68808 68808 73
+Encoding: 73 68808 73
 Width: 470
 GlyphClass: 1
 Flags: W
@@ -2338,7 +2337,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CC9
-Encoding: 68809 68809 74
+Encoding: 74 68809 74
 Width: 446
 GlyphClass: 1
 Flags: W
@@ -2381,7 +2380,7 @@ EndSplineSet
 EndChar
 
 StartChar: u10CCA
-Encoding: 68810 68810 75
+Encoding: 75 68810 75
 Width: 476
 GlyphClass: 1
 Flags: W
@@ -2429,7 +2428,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CCB
-Encoding: 68811 68811 76
+Encoding: 76 68811 76
 Width: 448
 GlyphClass: 1
 Flags: W
@@ -2462,7 +2461,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CCC
-Encoding: 68812 68812 77
+Encoding: 77 68812 77
 Width: 605
 GlyphClass: 1
 Flags: W
@@ -2509,7 +2508,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CCD
-Encoding: 68813 68813 78
+Encoding: 78 68813 78
 Width: 573
 GlyphClass: 1
 Flags: W
@@ -2533,7 +2532,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CCE
-Encoding: 68814 68814 79
+Encoding: 79 68814 79
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -2566,7 +2565,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CCF
-Encoding: 68815 68815 80
+Encoding: 80 68815 80
 Width: 550
 GlyphClass: 1
 Flags: W
@@ -2600,7 +2599,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD0
-Encoding: 68816 68816 81
+Encoding: 81 68816 81
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -2625,7 +2624,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD1
-Encoding: 68817 68817 82
+Encoding: 82 68817 82
 Width: 465
 GlyphClass: 1
 Flags: W
@@ -2646,7 +2645,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD2
-Encoding: 68818 68818 83
+Encoding: 83 68818 83
 Width: 391
 GlyphClass: 1
 Flags: W
@@ -2666,7 +2665,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD3
-Encoding: 68819 68819 84
+Encoding: 84 68819 84
 Width: 547
 GlyphClass: 1
 Flags: W
@@ -2690,7 +2689,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD4
-Encoding: 68820 68820 85
+Encoding: 85 68820 85
 Width: 485
 GlyphClass: 1
 Flags: W
@@ -2713,7 +2712,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD5
-Encoding: 68821 68821 86
+Encoding: 86 68821 86
 Width: 588
 GlyphClass: 1
 Flags: W
@@ -2750,7 +2749,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD6
-Encoding: 68822 68822 87
+Encoding: 87 68822 87
 Width: 575
 GlyphClass: 1
 Flags: W
@@ -2779,7 +2778,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CD7
-Encoding: 68823 68823 88
+Encoding: 88 68823 88
 Width: 584
 GlyphClass: 1
 Flags: W
@@ -2818,7 +2817,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CD8
-Encoding: 68824 68824 89
+Encoding: 89 68824 89
 Width: 455
 GlyphClass: 1
 Flags: W
@@ -2848,7 +2847,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CD9
-Encoding: 68825 68825 90
+Encoding: 90 68825 90
 Width: 410
 GlyphClass: 1
 Flags: W
@@ -2873,7 +2872,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CDA
-Encoding: 68826 68826 91
+Encoding: 91 68826 91
 Width: 500
 GlyphClass: 1
 Flags: W
@@ -2901,7 +2900,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CDB
-Encoding: 68827 68827 92
+Encoding: 92 68827 92
 Width: 469
 GlyphClass: 1
 Flags: W
@@ -2930,7 +2929,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CDC
-Encoding: 68828 68828 93
+Encoding: 93 68828 93
 Width: 532
 GlyphClass: 1
 Flags: W
@@ -2965,7 +2964,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CDD
-Encoding: 68829 68829 94
+Encoding: 94 68829 94
 Width: 390
 GlyphClass: 1
 Flags: W
@@ -2986,7 +2985,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CDE
-Encoding: 68830 68830 95
+Encoding: 95 68830 95
 Width: 484
 GlyphClass: 1
 Flags: W
@@ -3010,7 +3009,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CDF
-Encoding: 68831 68831 96
+Encoding: 96 68831 96
 Width: 596
 GlyphClass: 1
 Flags: W
@@ -3058,7 +3057,7 @@ EndSplineSet
 EndChar
 
 StartChar: u10CE0
-Encoding: 68832 68832 97
+Encoding: 97 68832 97
 Width: 503
 GlyphClass: 1
 Flags: W
@@ -3086,7 +3085,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE1
-Encoding: 68833 68833 98
+Encoding: 98 68833 98
 Width: 823
 GlyphClass: 1
 Flags: W
@@ -3138,7 +3137,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE2
-Encoding: 68834 68834 99
+Encoding: 99 68834 99
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -3163,7 +3162,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE3
-Encoding: 68835 68835 100
+Encoding: 100 68835 100
 Width: 413
 GlyphClass: 1
 Flags: W
@@ -3180,7 +3179,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE4
-Encoding: 68836 68836 101
+Encoding: 101 68836 101
 Width: 574
 GlyphClass: 1
 Flags: W
@@ -3204,7 +3203,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE5
-Encoding: 68837 68837 102
+Encoding: 102 68837 102
 Width: 208
 GlyphClass: 1
 Flags: W
@@ -3221,7 +3220,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE6
-Encoding: 68838 68838 103
+Encoding: 103 68838 103
 Width: 394
 GlyphClass: 1
 Flags: W
@@ -3242,7 +3241,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE7
-Encoding: 68839 68839 104
+Encoding: 104 68839 104
 Width: 713
 GlyphClass: 1
 Flags: W
@@ -3271,7 +3270,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CE8
-Encoding: 68840 68840 105
+Encoding: 105 68840 105
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -3304,7 +3303,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CE9
-Encoding: 68841 68841 106
+Encoding: 106 68841 106
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -3335,7 +3334,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CEA
-Encoding: 68842 68842 107
+Encoding: 107 68842 107
 Width: 602
 GlyphClass: 1
 Flags: W
@@ -3365,7 +3364,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CEB
-Encoding: 68843 68843 108
+Encoding: 108 68843 108
 Width: 664
 GlyphClass: 1
 Flags: W
@@ -3396,7 +3395,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CEC
-Encoding: 68844 68844 109
+Encoding: 109 68844 109
 Width: 688
 GlyphClass: 1
 Flags: W
@@ -3451,7 +3450,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CED
-Encoding: 68845 68845 110
+Encoding: 110 68845 110
 Width: 462
 GlyphClass: 1
 Flags: W
@@ -3472,7 +3471,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CEE
-Encoding: 68846 68846 111
+Encoding: 111 68846 111
 Width: 598
 GlyphClass: 1
 Flags: W
@@ -3497,7 +3496,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CEF
-Encoding: 68847 68847 112
+Encoding: 112 68847 112
 Width: 593
 GlyphClass: 1
 Flags: W
@@ -3533,7 +3532,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CF0
-Encoding: 68848 68848 113
+Encoding: 113 68848 113
 Width: 580
 GlyphClass: 1
 Flags: W
@@ -3558,7 +3557,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CF1
-Encoding: 68849 68849 114
+Encoding: 114 68849 114
 Width: 712
 GlyphClass: 1
 Flags: W
@@ -3609,7 +3608,7 @@ Validated: 33
 EndChar
 
 StartChar: u10CF2
-Encoding: 68850 68850 115
+Encoding: 115 68850 115
 Width: 643
 GlyphClass: 1
 Flags: W
@@ -3644,7 +3643,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFA
-Encoding: 68858 68858 116
+Encoding: 116 68858 116
 Width: 208
 GlyphClass: 1
 Flags: W
@@ -3661,7 +3660,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFB
-Encoding: 68859 68859 117
+Encoding: 117 68859 117
 Width: 510
 GlyphClass: 1
 Flags: W
@@ -3685,7 +3684,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFC
-Encoding: 68860 68860 118
+Encoding: 118 68860 118
 Width: 492
 GlyphClass: 1
 Flags: W
@@ -3710,7 +3709,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFD
-Encoding: 68861 68861 119
+Encoding: 119 68861 119
 Width: 529
 GlyphClass: 1
 Flags: W
@@ -3733,7 +3732,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFE
-Encoding: 68862 68862 120
+Encoding: 120 68862 120
 Width: 510
 GlyphClass: 1
 Flags: W
@@ -3764,7 +3763,7 @@ Validated: 1
 EndChar
 
 StartChar: u10CFF
-Encoding: 68863 68863 121
+Encoding: 121 68863 121
 Width: 510
 GlyphClass: 1
 Flags: W
@@ -3798,6 +3797,26 @@ SplineSet
  26 328 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: comma
+Encoding: 123 44 122
+Width: 279
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+186 89 m 1,0,-1
+ 186 0 l 1,1,-1
+ 171 -41 l 1,2,-1
+ 140 -80 l 1,3,-1
+ 94 -80 l 1,4,-1
+ 125 -41 l 1,5,-1
+ 140 0 l 1,6,-1
+ 93 0 l 1,7,-1
+ 93 90 l 1,8,-1
+ 186 89 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
