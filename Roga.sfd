@@ -754,6 +754,7 @@ SplineSet
  96 457 l 5,45,-1
  195 561 l 1,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: u10C8A
@@ -905,6 +906,7 @@ SplineSet
  284 -1 l 1,10,-1
  213 -1 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10C8E
@@ -1131,6 +1133,7 @@ SplineSet
  107 1 l 1,30,-1
  7 1 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10C96
@@ -2377,6 +2380,7 @@ SplineSet
  70 94 l 1,45,0
  108 94 108 94 147 105 c 0,1,2
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: u10CCA
@@ -3054,6 +3058,7 @@ SplineSet
  250 423 l 1,51,-1
  303 451 l 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: u10CE0
@@ -3817,6 +3822,7 @@ SplineSet
  93 90 l 1,8,-1
  186 89 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
