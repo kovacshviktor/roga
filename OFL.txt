@@ -1,6 +1,7 @@
 Copyright (c) 2021, Viktor Kovács,
 with Reserved Font Name Roga.
 Copyright (c) 2023 András Tisza
+Copyright (c) 2025 Viktor Kovacs "Halomhazi"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
